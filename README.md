@@ -30,6 +30,8 @@ I used `pyinstaller` to build the script to an EXE executable. It will automatic
 
 `$ pyinstaller -F AgPAS-Exporter.py`
 
+Binaries will be in `.\dist\`
+
 ## Testing
 
 Just run `$ python AgPAS-Exporter.py` with all necessary files in the same directory as the executable/script.
