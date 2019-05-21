@@ -28,11 +28,11 @@ Library requirements are listed in `requirements.txt` and can be install via pip
 
 I used `pyinstaller` to build the script to an EXE executable. It will automatically include all necessary libraries, resulting in a portable .exe file.
 
-`$ pyinstaller -F AgPAS_Exporter.py`
+`$ pyinstaller -F AgPAS-Exporter.py`
 
 ## Testing
 
-Just run `$ python AgPAS_Exporter.py` with all necessary files in the same directory as the executable/script.
+Just run `$ python AgPAS-Exporter.py` with all necessary files in the same directory as the executable/script.
 
 ## License
 MIT License
